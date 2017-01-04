@@ -1,0 +1,13 @@
+{
+  "name": "vhlab_SeminarSchedule",
+  "homepage": "https://github.com/VH-Lab/vhlab_SeminarSchedule",
+  "authors": [
+    "[Stephen D. Van Hooser] <[vanhoosr@brandeis.edu]>"
+  ],
+  "description": "Matlab tools for determining a semester schedule and making an internal seminar with speakers from a pool",
+  "main": "",
+  "license": "MIT",
+  "dependencies": {
+	  "vhlab_toolbox": "git://github.com/VH-Lab/vhlab_toolbox.git",
+  }
+}
