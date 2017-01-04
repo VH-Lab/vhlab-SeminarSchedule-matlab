@@ -8,6 +8,6 @@
   "main": "",
   "license": "MIT",
   "dependencies": {
-	  "vhlab_toolbox": "git://github.com/VH-Lab/vhlab_toolbox.git",
+	  "vhlab_toolbox": "git://github.com/VH-Lab/vhlab_toolbox.git"
   }
 }
