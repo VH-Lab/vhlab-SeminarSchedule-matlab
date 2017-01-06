@@ -1,6 +1,6 @@
 {
-  "name": "vhlab_SeminarSchedule",
-  "homepage": "https://github.com/VH-Lab/vhlab_SeminarSchedule",
+  "name": "vhlab_mltbx_SeminarSchedule",
+  "homepage": "https://github.com/VH-Lab/vhlab_mltbx_SeminarSchedule",
   "authors": [
     "[Stephen D. Van Hooser] <[vanhoosr@brandeis.edu]>"
   ],
@@ -8,6 +8,6 @@
   "main": "",
   "license": "MIT",
   "dependencies": {
-      "vhlab_toolbox": "git://github.com/VH-Lab/vhlab_toolbox.git"
+      "vhlab_mltbx_toolbox": "git://github.com/VH-Lab/vhlab_mltbx_toolbox.git"
   }
 }
