@@ -1,11 +1,11 @@
 
 fmax = 0;
 
-database = loadStructArray('JournalClub20162017.txt'),
+database = loadStructArray('JournalClub20172018.txt'),
 
 for i=1:100,
 	i,
-	[schedule_fall,schedule_spring] = seminarscheduler(database,12*2,14*2);
+	[schedule_fall,schedule_spring] = seminarscheduler(database,11*2,13*2);
 	[schedule_fall_new,schedule_spring_new,f] = seminaroptimizer(schedule_fall,schedule_spring);
 	if f>fmax,
 		W=workspace2struct;
